@@ -99,4 +99,4 @@ header a, a:visited {
   animation:move-clouds-back 200s linear infinite;
 }
 
-.inlineGrader .vtbegenerated img {width:100% !important;}
+.inlineGrader .vtbegenerated img {max-width:100% !important;}
