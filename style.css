@@ -98,3 +98,8 @@ header a, a:visited {
   -webkit-animation:move-clouds-back 200s linear infinite;
   animation:move-clouds-back 200s linear infinite;
 }
+
+.vtbegenerated img {
+    max-width: auto;
+    height: auto;
+}
