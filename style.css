@@ -100,5 +100,5 @@ header a, a:visited {
 }
 
 .vtbegenerated img {
-    max-width: auto;
+    max-width: auto !important;
 }
