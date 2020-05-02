@@ -1,3 +1,3 @@
-function load_home() {
-     document.getElementById("includedContentform").innerHTML='<object type="text/html" data="https://rawcdn.githack.com/javapython93/css/84a4a569972a0e6d4e4c1906c3513f03328146c6/form.html" ></object>';
-}
+$(function(){
+$("#includedContentform").load("https://rawcdn.githack.com/javapython93/css/5a993f28745aefac546c3a8a7afad3def92f8aa3/form.html");
+});
